@@ -5,7 +5,7 @@ print("Hel" in "Hello") #True if string is found
 print(ord('A')) #Unicode of character
 print(chr(66)) #Uniocode character of integer
 
-string = "hanckerman"
+string = "hackerman"
 print(string.capitalize()) # Uppercase the first character of string
 
 print(string.title()) # Uppercase the first character of string
@@ -19,3 +19,4 @@ print(string.startswith('h')) # return True if string start with h
 print(string.find('a')) # 
 
 print(string.rfind('ma'))
+
